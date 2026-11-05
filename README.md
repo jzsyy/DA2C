@@ -16,13 +16,21 @@ DA²C organizes multi-agent reasoning around two questions: **what needs to be c
 4. **Cost-aware collaboration.** A development-calibrated Ridge router compares expected correctness gains and token costs. It selects an available action: recheck evidence, verify a step, targeted repair, arbitrate among existing candidates, or stop.
 5. **Review and update.** Proposed revisions undergo acceptance review. The updated state is diagnosed again until a stopping condition or a budget/round limit is reached. The system returns an answer and a process trace.
 
+## Experimental Documentation
+
+The reported model settings, module token caps, calibration protocol, and baseline/ablation definitions are documented separately:
+
+- [Experimental settings (English)](docs/experiments.md)
+- [实验设置说明（简体中文）](docs/experiments.zh-CN.md)
+
 ## Release Status and Schedule
 
-**Current status:** this repository contains the bilingual project overview and the framework figure. The implementation and reproduction scripts have not yet been released.
+**Current status:** this documentation package contains the bilingual project overview, framework figure, and experimental settings. The implementation and reproduction scripts have not yet been released.
 
 | Stage | Availability |
 | --- | --- |
 | Project overview | Available now: English and Chinese READMEs and the framework figure |
+| Experimental documentation | English and Chinese descriptions of the reported protocol |
 | Implementation release | Planned upon paper acceptance |
 | Reproduction materials | Planned with the implementation release |
 
