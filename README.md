@@ -18,19 +18,23 @@ DA²C organizes multi-agent reasoning around two questions: **what needs to be c
 
 ## Experimental Documentation
 
-The reported model settings, module token caps, calibration protocol, and baseline/ablation definitions are documented separately:
+Start with the protocol index, then follow the topic-specific pages. Runtime parameters are maintained in one configuration record; results and prompts have their own directories:
 
 - [Experimental settings (English)](docs/experiments.md)
 - [实验设置说明（简体中文）](docs/experiments.zh-CN.md)
+- [Runtime and router configuration](configs/runtime.json)
+- [Prompt templates](prompts/README.md)
+- [Five reported result tables](results/README.md)
+- [Release, licenses and snapshot](docs/release.md)
 
 ## Release Status and Schedule
 
-**Current status:** this documentation package contains the bilingual project overview, framework figure, and experimental settings. The implementation and reproduction scripts have not yet been released.
+**Current status:** bilingual documentation, framework figure, model/router specifications, prompt templates and aggregate result tables are available. The full implementation, fitted routers and reproduction scripts are planned upon acceptance.
 
 | Stage | Availability |
 | --- | --- |
 | Project overview | Available now: English and Chinese READMEs and the framework figure |
-| Experimental documentation | English and Chinese descriptions of the reported protocol |
+| Experimental materials | Bilingual protocol, configuration metadata, prompts and five aggregate tables |
 | Implementation release | Planned upon paper acceptance |
 | Reproduction materials | Planned with the implementation release |
 
@@ -39,8 +43,12 @@ The schedule is tied to paper acceptance; no calendar release date has been set.
 ## Planned Release Contents
 
 - **Implementation code:** independent reasoning, adaptive diagnostic question chains, scoped checking, action routing, and revision review.
-- **Experiment configurations:** model and task settings, router calibration settings, baseline/adaptation settings, and ablation configurations.
+- **Executable configurations and artifacts:** launchers, fitted routers, calibration identities and baseline/adaptation configurations; descriptive settings are available now.
 - **Run scripts:** instructions and scripts for executing the supported experimental workflows.
 - **Evaluation scripts:** accuracy, answer correction and damage, token usage, routing analysis, and result aggregation.
 
 The release will document method adaptations, including **MAPS (text-adapted)** rather than an exact multimodal reproduction. Model weights and third-party datasets remain subject to their original access conditions and licenses. Private credentials and local deployment secrets will not be distributed.
+
+## License
+
+Original software/prompts: MIT. Documentation, original figures and aggregate results: CC BY 4.0. Third-party materials retain their own licenses. See [scope](LICENSE).

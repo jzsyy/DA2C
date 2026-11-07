@@ -1,0 +1,106 @@
+[
+  {
+    "benchmark": "BBH",
+    "dataset": "boolean_expressions",
+    "question_type": "short_answer",
+    "count": 250,
+    "sample_hash": "11656ac7cff1e5bfcbf53acd6a0c8a2170cd563d040aa4cf407ef259694d570c",
+    "sha256": "87872bf5eb5d5438f68e61c77cd5a9a86ceca8f68e380c5697f50c239503ba2f"
+  },
+  {
+    "benchmark": "BBH",
+    "dataset": "disambiguation_qa",
+    "question_type": "choice",
+    "count": 250,
+    "sample_hash": "898444ee06ec272357c9502d675a9c895445207a42f57e6b50a192da4d50e2e6",
+    "sha256": "853ed179c36f81dce2e7fc78588570b15b31e0411e433938c49a67d7f3102279"
+  },
+  {
+    "benchmark": "BBH",
+    "dataset": "formal_fallacies",
+    "question_type": "short_answer",
+    "count": 250,
+    "sample_hash": "dde58cae6414840b7f27981553fd9bbc25ed7ea1207859c3bb7d0a869edaef21",
+    "sha256": "c3178d97c0817116cf2b58fcfeb803004db98372a18cf2ec856c048d95d47a13"
+  },
+  {
+    "benchmark": "BBH",
+    "dataset": "geometric_shapes",
+    "question_type": "choice",
+    "count": 250,
+    "sample_hash": "ac2a580da22e87dd0a82fa5c6743a0da9cd73d7e8eee03ad299e0be72b7ab55a",
+    "sha256": "72598300b68af031f8198b3a239590799b34e612ab8ad36c645117c3fb3703fd"
+  },
+  {
+    "benchmark": "BBH",
+    "dataset": "ruin_names",
+    "question_type": "short_answer",
+    "count": 250,
+    "sample_hash": "cd1494718a366d8602d7bc2cbe616c77add30ac7f11d242cc8fa9eea010f88b5",
+    "sha256": "6e7a9ad266ab4bb87943fa3c33c3ee21cf9856dc922d20246825ed05709ea235"
+  },
+  {
+    "benchmark": "BBH",
+    "dataset": "sports_understanding",
+    "question_type": "short_answer",
+    "count": 250,
+    "sample_hash": "f5b64135e143470d9a9ed7d205a841be1db4bf690a3e5536956b54cb64402218",
+    "sha256": "1e7cbb567f9f902d4c1ec597b1d8b53cdab9a8c629d817e58b4b93f58e9d8430"
+  },
+  {
+    "benchmark": "GSM8K",
+    "dataset": "gsm8k_test",
+    "question_type": "short_answer",
+    "count": 1319,
+    "sample_hash": "9789d3b5835d01f86383268a05306f4563e7e136dbb39b0cb02c03225b934c73",
+    "sha256": "dda4d9954409d6dbd4e0cf2576375cbcced6e29ae0007eb551953b152d800d85"
+  },
+  {
+    "benchmark": "MMLU",
+    "dataset": "college_biology_test",
+    "question_type": "choice",
+    "count": 144,
+    "sample_hash": "f58f8e68cab06b2942237340e3cefeaf6100553218ef6342b9979ae4d8d9472e",
+    "sha256": "1cdb373e5bbd560a9c4f3e5cf8ae11aab3602083f80ae31c633a1dc70e3a235f"
+  },
+  {
+    "benchmark": "MMLU",
+    "dataset": "college_medicine_test",
+    "question_type": "choice",
+    "count": 173,
+    "sample_hash": "4000b27655df4e72779d3d4a568f2311659c8b17da4a89c88aac9da967acdf11",
+    "sha256": "b0f82ac621abca145d7ceadfa38904e69e6540f3e0219ca01460db40a09bb1a1"
+  },
+  {
+    "benchmark": "MMLU",
+    "dataset": "electrical_engineering_test",
+    "question_type": "choice",
+    "count": 145,
+    "sample_hash": "92a51c1b171f98ba9189ac6fefdfef8cee7d91fa8ca86f9ded806e4634722445",
+    "sha256": "efd04d625c135b031863d5a0a978f58838fd40905d33c98c8538eabdb048251e"
+  },
+  {
+    "benchmark": "MMLU",
+    "dataset": "high_school_world_history_test",
+    "question_type": "choice",
+    "count": 237,
+    "sample_hash": "7dba02c710193d8c16131648602ac46733f441ba19009dd3ede503e1bb43ae5d",
+    "sha256": "f47ccda893cf770a532e991007a69c5acf2d13793e254dfaf4c974b4247f271a"
+  },
+  {
+    "benchmark": "MMLU",
+    "dataset": "human_aging_test",
+    "question_type": "choice",
+    "count": 223,
+    "sample_hash": "5cb87deccefaa2843fa322bd0574a62cc6ce8dc88bbc1b1c8713f38b939c3da8",
+    "sha256": "a58c389d6ff695a9b7d3237847e47d844252dbe42748573f41c82c6fffa6ff78"
+  },
+  {
+    "benchmark": "MMLU",
+    "dataset": "marketing_test",
+    "question_type": "choice",
+    "count": 234,
+    "sample_hash": "b5141cfb98717dff541b9f4b6885c7eabf137e82de51626c21a5ecd6fc0ab6a8",
+    "sha256": "dea8f249744e9d9aab47bc5a4005e8c360ead6c4da2d5d0a23aa3827ae0fffa8"
+  }
+]

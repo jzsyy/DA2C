@@ -1,0 +1,47 @@
+{
+  "source": "author-provided aggregate tables used by manuscript",
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "statistic": "three-run mean",
+  "F_D": "rounded after averaging",
+  "files": [
+    {
+      "file": "results/table1_qwen3-8b_main.csv",
+      "input_sha256": "ed116945bf55aa1dde5cd863674af5a8ab1138783338cec82b87cb039e97221f",
+      "output_sha256": "21e8fcb965dc759c59d05e92f28d4a579a74defbc1aa1d9b87718fac0fb37cb7",
+      "rows": 11,
+      "conversion": "UTF-8 BOM, LF line endings; all cells unchanged"
+    },
+    {
+      "file": "results/table2_ablation.csv",
+      "input_sha256": "f59e32027c135184eec40a21674c17843d1182cc7f95c79e08db8021af5ac00d",
+      "output_sha256": "f59e32027c135184eec40a21674c17843d1182cc7f95c79e08db8021af5ac00d",
+      "rows": 9,
+      "conversion": "UTF-8 BOM, LF line endings; all cells unchanged"
+    },
+    {
+      "file": "results/table3_routing.csv",
+      "input_sha256": "ffce95d00e9867401a586700980bc21108aace98f1bf872378ddfd6a33c8036d",
+      "output_sha256": "ffce95d00e9867401a586700980bc21108aace98f1bf872378ddfd6a33c8036d",
+      "rows": 6,
+      "conversion": "UTF-8 BOM, LF line endings; all cells unchanged"
+    },
+    {
+      "file": "results/table4_budget.csv",
+      "input_sha256": "312699e67d2b4582b09f85e98fa5da1ccb0736e3a7dca9c89d7af939651be18c",
+      "output_sha256": "312699e67d2b4582b09f85e98fa5da1ccb0736e3a7dca9c89d7af939651be18c",
+      "rows": 3,
+      "conversion": "UTF-8 BOM, LF line endings; all cells unchanged"
+    },
+    {
+      "file": "results/table5_qwen3.8-27b.csv",
+      "input_sha256": "a6ea50dc5737c438b0e80b0ae502d5fc1f84177e6d9c97a64f125af9764fc5bc",
+      "output_sha256": "814b3612975cfb0974661f93c229ac5402f5611986991dcbb08c08e4c0fada44",
+      "rows": 9,
+      "conversion": "UTF-8 BOM, LF line endings; all cells unchanged"
+    }
+  ]
+}
