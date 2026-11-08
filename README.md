@@ -18,23 +18,22 @@ DA²C organizes multi-agent reasoning around two questions: **what needs to be c
 
 ## Experimental Documentation
 
-Start with the protocol index, then follow the topic-specific pages. Runtime parameters are maintained in one configuration record; results and prompts have their own directories:
+Start with the protocol index, then follow the topic-specific pages. Runtime parameters are maintained in one configuration record, and prompt templates have their own directory:
 
 - [Experimental settings (English)](docs/experiments.md)
 - [实验设置说明（简体中文）](docs/experiments.zh-CN.md)
 - [Runtime and router configuration](configs/runtime.json)
 - [Prompt templates](prompts/README.md)
-- [Five reported result tables](results/README.md)
 - [Release, licenses and snapshot](docs/release.md)
 
 ## Release Status and Schedule
 
-**Current status:** bilingual documentation, framework figure, model/router specifications, prompt templates and aggregate result tables are available. The full implementation, fitted routers and reproduction scripts are planned upon acceptance.
+**Current status:** bilingual documentation, framework figure, model/router specifications and prompt templates are available. Experiment result tables are not included in the current package. The full implementation, fitted routers and reproduction scripts are planned upon acceptance.
 
 | Stage | Availability |
 | --- | --- |
 | Project overview | Available now: English and Chinese READMEs and the framework figure |
-| Experimental materials | Bilingual protocol, configuration metadata, prompts and five aggregate tables |
+| Experimental materials | Bilingual protocol, configuration metadata and prompts |
 | Implementation release | Planned upon paper acceptance |
 | Reproduction materials | Planned with the implementation release |
 

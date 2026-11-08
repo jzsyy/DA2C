@@ -1,6 +1,6 @@
 # Scoring and accounting / 评分与计费
 
-[Task inventory / 任务](tasks.md) · [Aggregate tables / 汇总表](../results/README.md)
+[Task inventory / 任务](tasks.md) · [Experimental protocol / 实验协议](experiments.md)
 
 ## Answers / 答案
 

@@ -2,7 +2,7 @@
 
 [English](experiments.md) | [简体中文](experiments.zh-CN.md) | [Project](../README.md)
 
-This package documents the reported A100 experiments with seeds 42/43/44. Specifications, source-extracted prompts and aggregate measurements are available now; implementation and reproduction scripts are planned upon acceptance.
+This package documents the reported A100 experiments with seeds 42/43/44. Specifications and source-extracted prompts are available now; implementation and reproduction scripts are planned upon acceptance.
 
 ## Reading order
 
@@ -14,7 +14,6 @@ This package documents the reported A100 experiments with seeds 42/43/44. Specif
 | Calibration, features and routing controls | [Router](router.md), [feature dictionary](features.md) |
 | Actual instructions | [Prompts](../prompts/README.md) |
 | Answer normalization, aggregation and token scope | [Scoring](scoring.md) |
-| Five reported aggregate tables | [Results](../results/README.md) |
 | Availability, licenses and snapshot | [Release](release.md) |
 
 ## Controlled ablations

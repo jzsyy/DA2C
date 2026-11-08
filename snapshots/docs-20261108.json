@@ -1,0 +1,32 @@
+{
+  "snapshot": "docs-20261108",
+  "date": "2026-11-08",
+  "status": "documentation package without experiment result tables",
+  "files": {
+    ".gitattributes": "c089985639038cc07dc37c07a8d0d543df7ddf9b1873a948000494a6e230530d",
+    "assets/framework.png": "aad9480172596e47b4e021327ff61c8c6cde187b621a7d97dd72c2cc65e99c8f",
+    "configs/gpt54_dates.json": "547b1f0baefb8c9ca0de1d6be996b894b9f91b688b9677321a21e0c7583b8dc0",
+    "configs/maps_source.json": "b1d3bc869ebbddf41b3ea8f05ddc25039d1e3ace470718de9b76f4caa582d0ef",
+    "configs/runtime.json": "243bc7c9f6c3433157e1314d2f7b8d7a59e63f0cee2467797df3c9441515f18c",
+    "configs/tasks.json": "45ab9fc236d90c128ab4f642b3a71a60f0a8c2178f1c02b858312fba2729ef9b",
+    "docs/baselines.md": "1d8aa58cafbc6dd1ba71eacf1aeb7524b17d5443b560e663a4cd68686ffd44f8",
+    "docs/experiments.md": "f7ac3e9638c14239df9d0045c12360ee9412c9bd2f2bd6bba30b25a325f56f82",
+    "docs/experiments.zh-CN.md": "9151e05ed27acc5d78aa005b70898a87ed1ea9f23164186c21498d0305836d86",
+    "docs/features.md": "c41d2d899f3a443db18d9409c8821afc5e7089e0877a83f5ffaafd8bc50cefd2",
+    "docs/release.md": "d651357ac04ed43f4f8ccbedee0fe4c3508b72af8f7704ee58c241c6810178e0",
+    "docs/router.md": "b8b02a97557f5dd1be42d15eb74ad75fc0d3defe9a4f1157b21c6e3aec680888",
+    "docs/runtime.md": "87ced8c696a3f2d666bb3a8d76c9f541fe0aed5055e3e48ea3bb8e691c07d0ec",
+    "docs/scoring.md": "4cdfd42e2db0ca2057c6ba0ab0f2482766f7910f2238c2d2de82bc7298108896",
+    "docs/tasks.md": "3b15b676693eb94f8c745ae2116b7626db28227956acd352eddfbf264ab15370",
+    "LICENSE": "78101875a473bf50a456251021be9d9d7a03e0db41589f6c22f80fd2b1eced3d",
+    "LICENSES/CC-BY-4.0.md": "7c3ed734a261ec459938ac9df197e5b65576368229e6e9cc72404a75c86393a9",
+    "LICENSES/MIT.txt": "4eb10704c9d2d481fab9843a030aa57ff1012ec716d53a8d7ef487d7ba3173c8",
+    "prompts/da2c.json": "baedf142a2195e05639e2e9fc22f60a18c81659515882431bdb3f2dc039fec62",
+    "prompts/format_contract.json": "fdf0e3a9bf966ae5ea93acda998e0947faff26f7b2c9605f6f0da5a094462512",
+    "prompts/gpt54.json": "782fa309d0a3fb89a46cd987ada33705190eab56800ac63910302062bcc95883",
+    "prompts/README.md": "a1ce2449205065546d8e3ac05c1d874425e6fd863814ce72eae765e789482033",
+    "prompts/text_baselines.json": "43f3fbb9cc0296075b3a63bf0bd4426709b7d3aa54f499ff7a17d5a15210788e",
+    "README.md": "da81c48f972f95911e1b4ddae5ae8202320fd8ebce81d6de7c8e98504ba2e800",
+    "README.zh-CN.md": "a42900e9c272626bc5080556711c7975eea92f432d7d7f7713b98c78aa89e795"
+  }
+}

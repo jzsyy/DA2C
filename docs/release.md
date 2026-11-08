@@ -4,9 +4,9 @@
 
 ## Current package / 当前材料
 
-Available now: bilingual overview and protocol, framework figure, runtime/router specifications, task inventory, instruction templates, baseline parameters, scoring/accounting rules and five aggregate tables. Each topic has one canonical page; READMEs and the protocol index link to it.
+Available now: bilingual overview and protocol, framework figure, runtime/router specifications, task inventory, instruction templates, baseline parameters and scoring/accounting rules. Experiment result tables are not included in the current package. Each topic has one canonical page; READMEs and the protocol index link to it.
 
-当前公开双语概览与协议、框架图、运行/路由配置、任务清单、指令模板、基线参数、评分计费规则及五张汇总表。每项内容集中维护，README和协议页提供导航。
+当前公开双语概览与协议、框架图、运行/路由配置、任务清单、指令模板、基线参数及评分计费规则，不包含实验结果表。每项内容集中维护，README和协议页提供导航。
 
 Implementation, fitted router coefficients, launchers, baseline adaptations and evaluation/aggregation scripts are planned upon acceptance. No calendar release date is set. Weights and question text remain at their original sources.
 
@@ -14,9 +14,9 @@ Implementation, fitted router coefficients, launchers, baseline adaptations and 
 
 ## Snapshot / 快照
 
-Identifier: `submission-docs-20261107`. The [manifest](../snapshots/submission-docs-20261107.json) contains SHA-256 hashes of public files and the companion manuscript PDF; the PDF itself is not uploaded. Git commits identify historical content. This is a prepared submission-material snapshot, not confirmation of submission or acceptance.
+Current manifest: [docs-20261108](../snapshots/docs-20261108.json). It records the documentation package after result-table removal. The earlier [submission-docs-20261107 manifest](../snapshots/submission-docs-20261107.json) describes the historical tagged commit, not the current file tree; its result tables remain in Git history. The manuscript PDF is not uploaded. These snapshots do not indicate submission or acceptance.
 
-标识为`submission-docs-20261107`。[清单](../snapshots/submission-docs-20261107.json)记录公开文件与配套论文PDF的SHA-256，不上传PDF本身。历史内容由Git提交定位。这是已准备的投稿材料快照，不代表已投稿或录用。
+当前清单为[docs-20261108](../snapshots/docs-20261108.json)，记录撤下结果表后的文档包。此前的[submission-docs-20261107清单](../snapshots/submission-docs-20261107.json)对应历史标签提交，不代表当前文件树；旧结果表仍保留在Git历史中。论文PDF不上传；这些快照不表示已投稿或录用。
 
 Later revisions receive new manifests while retaining old ones. Configuration metadata is distinct from fitted weights, and prompt templates are distinct from an executable framework release.
 
