@@ -21,6 +21,7 @@ DA²C 将陈述级证据转化为定向协作。自适应诊断问题定位需�
 
 - [实验概览](docs/experiments.zh-CN.md)
 - [关键设置](docs/runtime.md)
+- [Prompt模板](prompts/README.md)
 
 ## 代码发布
 

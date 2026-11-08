@@ -19,6 +19,7 @@ DA²C turns claim-level evidence into targeted collaboration. Adaptive diagnosti
 
 - [Experimental overview](docs/experiments.md)
 - [Key settings](docs/runtime.md)
+- [Prompt templates](prompts/README.md)
 
 ## Code Release
 
